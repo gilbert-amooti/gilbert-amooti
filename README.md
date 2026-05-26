@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi I'm Gilbert 👋
 
-<!--
-**gilbert-amooti/gilbert-amooti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a computer Science Student at Mbarara University of Science and Technology, Implementing the core CS concepts and Leveraging AI to solve real world Problems.
+I am an aspiring Systems and AI Full-Stach developer and an Open-Source Enthusiast. It is not a technical job or hobby for me, but it is part of my life. 
 
-Here are some ideas to get you started:
+---
+## Technical Arsenal
+| Field | Tools |
+| :---  | :--- |
+|Fundamental Languages | `C lang` `Python` `Java` |
+|Containerization     | `Docker`  `Kubernetes` `Podman` |
+|Version Control | `Git` `Github` |
+|Operating Systems | `Linux` `Windows` |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Projects
+***Projects to be released soon***
+
+---
+## Contact
+Email me: [Email](gilbert.asiimwe.dev@gmail.com)
